@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jessie826.github.io/custom-painting-carpentry/sitemap.xml
